@@ -1,0 +1,45 @@
+#task-list-section{
+    border: 1px solid black;
+    width: 100%;
+    margin-left: 25px;
+    padding-bottom: 25px;
+}
+#task-list>h1{
+    background-color: rgb(122, 122, 219);
+}
+h1{
+    background-color: rgb(178, 221, 207);
+    text-align: center;
+}
+#submit{
+    margin-top: 10px;
+    margin-right:25%;
+    background-color: green;
+    color: white;
+}
+h2{
+    background-color: rgb(89, 164, 221);
+    margin-top: 0px;
+    text-align: center;
+    color: white;
+}
+#clear{
+    color: white;
+    background-color: rgb(222, 77, 77);
+}
+#task{
+    margin-top: 10px;
+}
+
+article{
+    display: flex;
+    
+}
+
+body{
+    margin-left: 6rem;
+    margin-right: 6rem;
+}
+.task-list-items{
+    padding-left: 5px;
+}
